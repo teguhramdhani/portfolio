@@ -47,13 +47,3 @@ window.onload = loaderActiveTime();
 
 
 
-
-
-
-
-
-// SOURCE VIDEO
-// YT : NGODING MASTERI
-// PORTFOLIO WEBSITE MENGGUNAKAN HTML CSS JS
-// MENIT : 1:32:46
-// 3 JUlI 2024
